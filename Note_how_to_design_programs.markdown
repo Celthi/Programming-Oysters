@@ -7,5 +7,5 @@ I. Fixed-Size data
 Every programming language comes with a language of data and a language of operations on data. The first language always provides some forms of atomic data; to represent the variety of information in the real world as data, a programmer must learn to compose basic data and to describe such compositions. Similarly, the second language provides some basic operations on data atomic; it is the programmer’s task to compose these operations into programs that perform the desired computations. We use arithmetic for the combination of these two parts of a programming language because it generalizes what you know from grade school.
 
 
-here:define constants. 
+here:How To Design Programs
 
