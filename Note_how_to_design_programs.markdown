@@ -15,5 +15,5 @@ A good program comes with a short write-up that explains what it does, what inpu
 Information and Data The purpose of a program is to describe a computational process of working through information and producing new information. In this sense, a program is like the instructions a mathematics teacher gives to grade school students. Unlike a student, however, a program works with more than numbers; it calculates with navigation information, looks up a person’s address, turns on switches, or inspects the state of a video game. All this information comes from a part of the real world—often called the program’s domain—and the results of a program’s computation represents more information in this domain.
 
 
-here:The templates of this section 
+here:On Testing
 
