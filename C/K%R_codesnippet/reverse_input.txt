@@ -1,0 +1,72 @@
+
+#include <stdio.h>
+
+#define MAXLINE 1024
+
+int getline(char s[], int lim)
+
+{
+
+	int c, i;
+
+	for (i = 0; i < lim-1 && (c=getchar()) != EOF && c != '\n'; ++i)
+
+		s[i] = c;
+
+	if (c == '\n')
+
+		s[i++] = c;
+
+	s[i] = '\0';
+
+	return i;
+
+}
+
+void reverse(char that[], int len)
+
+{
+
+	int x, y;
+
+	char t;
+
+	if(that[len-1] == '\n')
+
+		that[--len] = '\0';
+
+	for(x = len-1, y=0; x>y; x--, y++) {
+
+		t = that[x];
+
+		that[x] = that[y];
+
+		that[y] = t;
+
+	}
+
+	return;
+
+}
+
+int main(void)
+
+{
+
+	char s[MAXLINE];
+
+	int len;
+
+	int x;
+
+	while((len = getline(s, MAXLINE)) > 0) {
+
+		reverse(s, len);
+
+		printf("%s\n",s);
+
+	}
+
+	return 0;
+
+}

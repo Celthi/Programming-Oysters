@@ -1,0 +1,112 @@
+
+>h.oidts< edulcni#
+
+>h.dtsinu< edulcni#
+
+>h.sepyt/sys< edulcni#
+
+>h.tats/sys< edulcni#
+
+>h.ltncf< edulcni#
+
+1 NI enifed#
+
+0 TUO enifed#
+
+)(niam tni
+
+{
+
+;wn ,yn ,c tni	
+
+1 GUBED enifed#
+
+GUBED fedfi#
+
+HTOWI_S|HTORI_S|PRGWI_S|PRGRI_S|RSUWI_S|RSURI_S EDOM_FED enifed#
+
+;df tni	
+
+;)0 ,YLNODR_O ,"c.sdrow_fo_margotsih/."(nepo = df	
+
+;)ONELIF_NIDTS ,df(2pud	
+
+;tuodf tni	
+
+;)EDOM_FED ,TAERC_O|RWDR_O,"txt.tuptuo/."(nepo = tuodf	
+
+;)ONELIF_TUODTS ,tuodf(2pud	
+
+fidne#
+
+;1 = yn	
+
+;0 = wn	
+
+{ )FOE =! ))(rahcteg = c( ( elihw	
+
+{ )'t\' == c || 'n\' == c || ' ' == c( fi		
+
+{ )0 > wn( fi			
+
+;)yn ,"d4%"(ftnirp				
+
+)--wn( elihw				
+
+;)'-'(rahctup					
+
+;)'n\'(rahctup				
+
+;0 = wn				
+
+;++yn				
+
+}			
+
+}		
+
+;++wn esle		
+
+}	
+
+;0 nruter	
+
+}
+  63-
+  64--
+  65--
+  66--
+  67-
+  68-
+  69--
+  70-
+  71--
+  72----
+  73--
+  74-
+  75--
+  76-----
+  77-
+  78--
+  79---
+  80-
+  81--
+  82-
+  83-------------
+  84----
+  85-----
+  86------
+  87-------------
+  88--------------
+  89--
+  90-
+  91--
+  92-----
+  93-
+  94-
+  95----
+  96-----
+  97-
+  98------
+  99--
+ 100-

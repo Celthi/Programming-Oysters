@@ -1,0 +1,72 @@
+
+>h.oidts< edulcni#
+
+4201 ENILXAM enifed#
+
+)mil tni ,][s rahc(enilteg tni
+
+{
+
+;i ,c tni	
+
+)i++ ;'n\' =! c && FOE =! ))(rahcteg=c( && 1-mil < i ;0 = i( rof	
+
+;c = ]i[s		
+
+)'n\' == c( fi	
+
+;c = ]++i[s		
+
+;'0\' = ]i[s	
+
+;i nruter	
+
+}
+
+)nel tni ,][taht rahc(esrever diov
+
+{
+
+;y ,x tni	
+
+;t rahc	
+
+)'n\' == ]1-nel[taht(fi	
+
+;'0\' = ]nel--[taht		
+
+{ )++y ,--x ;y>x ;0=y ,1-nel = x(rof	
+
+;]x[taht = t		
+
+;]y[taht = ]x[taht		
+
+;t = ]y[taht		
+
+}	
+
+;nruter	
+
+}
+
+)diov(niam tni
+
+{
+
+;]ENILXAM[s rahc	
+
+;nel tni	
+
+;x tni	
+
+{ )0 > ))ENILXAM ,s(enilteg = nel((elihw	
+
+;)nel ,s(esrever		
+
+;)s,"n\s%"(ftnirp		
+
+}	
+
+;0 nruter	
+
+}
